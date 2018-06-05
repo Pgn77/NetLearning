@@ -1,3 +1,0 @@
-# NetLearning
-DotNet Scorm Player
-
